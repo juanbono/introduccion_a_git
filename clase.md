@@ -99,7 +99,7 @@ En resumen, permite escalar el desarrollo de proyectos de software al dar una he
 
 
 ## Resumen de comandos
-Tambien se pueden ver en (el archivo comandos utiles)[/documentacion_adicional/comandos_utiles.md]
+Tambien se pueden ver en [el archivo comandos utiles](/documentacion_adicional/comandos_utiles.md)
 
 - git init: Inicializa el repositorio en el directorio en el que este ubicado
 - git status: Permite ver los cambios realizados y que aun no fueron commiteados
