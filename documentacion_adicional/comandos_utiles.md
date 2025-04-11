@@ -1,0 +1,6 @@
+- git init: Inicializa el repositorio en el directorio en el que este ubicado
+- git status: Permite ver los cambios realizados y que aun no fueron commiteados
+- git add: Permite agregar un cambio al commit en preparacion
+- git commit: sella un paquete de cambios
+- git push: Envia al repositorio remoto todos los commits locales con el objetivo de sincronizarlo
+- git log: Permite ver localmente el historial de commits
